@@ -1,3 +1,7 @@
+---
+summary: 从 Agent Profile、权限策略和运行时三个层面，梳理 Sub Agent 如何被发现、创建与执行。
+---
+
 # Claude Code / Harness 中 Sub Agent 的核心机制
 
 下面我会去阐述 Harness 中 Sub Agent 的机制。
@@ -468,6 +472,5 @@ Final Result
       ↓
 Parent Agent
 ```
-
 
 
